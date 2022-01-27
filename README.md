@@ -1,4 +1,4 @@
-Hi, I’m @aferragu, Assistant Professor at Universidad ORT Uruguay.
+Hi, I’m Andres Ferragut (@aferragu), Assistant Professor at Universidad ORT Uruguay.
 
 I am an applied mathematician and researcher, with emphasis on mathematical analysis of network. I
 like to simulate things in Julia, because it's clean and super fast
