@@ -1,7 +1,7 @@
 Hi, I’m Andres Ferragut (@aferragu), Assistant Professor at Universidad ORT Uruguay.
 
-I am an applied mathematician and researcher, with emphasis on mathematical analysis of network. I
-like to simulate things in Julia, because it's clean and super fast
+I am an applied mathematician and researcher, with emphasis on mathematical analysis of networks. I
+like to simulate things in Julia, because it's clean and super fast.
 
 Check out my [personal site](https://aferragu.github.io) for more info.
 
